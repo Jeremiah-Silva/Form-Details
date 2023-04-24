@@ -1,6 +1,6 @@
 # Form-Details
 # <a href="" target="_blank"><img src="https://img.shields.io/badge/COBOL-0A2B3D.svg?style=for-the-badge&logo=none" target="_blank"></a>
-#
+
 The project consists of a program written in COBOL that aims to create a record of personal and professional information about a person using a layout defined in the "LAYOUT001.CPY" file.
 
 The program begins by importing the layout with the statement "COPY 'LAYOUT001.CPY'". Then it declares some working variables in the WORKING-STORAGE section, including WS-TM-1 and WS-TM-2, which will be used later to calculate the correct position of certain fields in the layout.
@@ -14,3 +14,4 @@ Next, the program uses the LENGTH function to determine the total length of the 
 Finally, the program displays the nationality and occupation before ending with the STOP RUN command.
 
 The "LAYOUT001.CPY" file defines the structure of the record that the program is creating. It consists of fields for name, phone, address, postal code, nationality, and occupation, each with its own data format specification. The program uses these fields to fill in the record information.
+#
