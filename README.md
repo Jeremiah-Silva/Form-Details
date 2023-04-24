@@ -14,4 +14,5 @@ Next, the program uses the LENGTH function to determine the total length of the 
 Finally, the program displays the nationality and occupation before ending with the STOP RUN command.
 
 The "LAYOUT001.CPY" file defines the structure of the record that the program is creating. It consists of fields for name, phone, address, postal code, nationality, and occupation, each with its own data format specification. The program uses these fields to fill in the record information.
-#
+
+#![Form-Details](https://user-images.githubusercontent.com/108309798/233903451-3177786d-62ce-460e-a541-4f7a04065044.jpg)
