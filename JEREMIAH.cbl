@@ -20,7 +20,7 @@
 
             MOVE 'JEREMIAH'                       TO WS-FIRST-NAME     
             MOVE 'SILVA'                          TO WS-LAST-NAME
-<<<<<<< HEAD
+
             MOVE '01234567890'                    TO WS-PHONE
             MOVE 'LIBERTADORES CUP, 06'           TO WS-STREET
             MOVE 'BOCA JUNIORS'                   TO WS-DISTRICT
@@ -28,15 +28,7 @@
             MOVE 'BOMBONERA'                      TO WS-PROVINCE
             MOVE 'A0R0G3'                         TO WS-POSTCODE
             MOVE 'XINENSE'                        TO WS-NACIONALITY
-=======
-            MOVE 'xxxxxxxxxxx'                    TO WS-PHONE
-            MOVE 'xxxxxxxxxxxxxxx, xxx'           TO WS-STREET
-            MOVE 'xxxxxxxxxxx'                    TO WS-DISTRICT
-            MOVE 'xxxxxxx'                        TO WS-CITY
-            MOVE 'xxxxxxx'                        TO WS-PROVINCE
-            MOVE 'xxxxxx'                         TO WS-POSTCODE
-            MOVE 'xxxxxxxx'                       TO WS-NACIONALITY
->>>>>>> 12013791dd07d78cda48e7bcbba2fc36ab617b08
+
             MOVE 'FULL STACK DEVELOPER '          TO WS-OCCUPATION
               
             MOVE ZEROS                            TO WS-TM-1
