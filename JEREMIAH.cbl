@@ -4,7 +4,7 @@
       * 
       * Date      Author        Maintenance Requirement               
       * --------- ------------  --------------------------------------- 
-      * 23/04/23 JEREMIAH SILVA Created COBOL code for me         
+      * 23/04/23 JEREMIAH SILVA Created COBOL code for me        
       *****************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. FORM.
