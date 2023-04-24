@@ -20,13 +20,13 @@
 
             MOVE 'JEREMIAH'                       TO WS-FIRST-NAME     
             MOVE 'SILVA'                          TO WS-LAST-NAME
-            MOVE '15874343195'                    TO WS-PHONE
-            MOVE 'VILLAGE HEIGHTS, 113'           TO WS-STREET
-            MOVE 'COACH HILLS'                    TO WS-DISTRICT
-            MOVE 'CALGARY'                        TO WS-CITY
-            MOVE 'ALBERTA'                        TO WS-PROVINCE
-            MOVE 'T3H2L2'                         TO WS-POSTCODE
-            MOVE 'CANADIAN'                       TO WS-NACIONALITY
+            MOVE '01234567890'                    TO WS-PHONE
+            MOVE 'LIBERTADORES CUP, 06'           TO WS-STREET
+            MOVE 'BOCA JUNIORS'                   TO WS-DISTRICT
+            MOVE 'BUENOS AIRES'                   TO WS-CITY
+            MOVE 'BOMBONERA'                      TO WS-PROVINCE
+            MOVE 'A0R0G3'                         TO WS-POSTCODE
+            MOVE 'XINENSE'                        TO WS-NACIONALITY
             MOVE 'FULL STACK DEVELOPER '          TO WS-OCCUPATION
               
             MOVE ZEROS                            TO WS-TM-1
