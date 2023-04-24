@@ -11,7 +11,7 @@ The program then uses the REVERSE function to reverse the values of the WS-FIRST
 
 Next, the program uses the LENGTH function to determine the total length of the name and address, subtracts the value of the blank space count, and displays the result on the screen. The address fields are displayed together, with the WS-DISTRICT field omitted if it is empty.
 
-Finally, the program displays the nationality and occupation before ending with the STOP RUN command.
+Finally, the program displays the nationality and occupation before ending with the STOP RUN command. 
 
 The "LAYOUT001.CPY" file defines the structure of the record that the program is creating. It consists of fields for name, phone, address, postal code, nationality, and occupation, each with its own data format specification. The program uses these fields to fill in the record information.
 #
