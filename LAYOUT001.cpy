@@ -11,12 +11,9 @@
                05 WS-STREET                    PIC X(20).
                05 WS-DISTRICT                  PIC X(15).
                05 WS-CITY                      PIC X(15).
-               05 WS-PROVINCE                  PIC XX(07).
+               05 WS-PROVINCE                  PIC XX(08).
                05 WS-POSTCODE.
                     07 WS-POSTCODE-1           PIC X(03).
                     07 WS-POSTCODE-2           PIC X(03).
            03 WS-NACIONALITY                   PIC X(20).
-           03 WS-OCCUPATION                    PIC X(20).         
-                
-     
-
+           03 WS-OCCUPATION                    PIC X(20).
